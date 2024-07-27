@@ -1,0 +1,30 @@
+# MIUI 安装检查
+DOMAIN-KEYWORD,api.installer.xiaomi.com
+#OneTrack & Analytics & Ad
+DOMAIN-KEYWORD,tracking.miui.com
+DOMAIN-KEYWORD,data.mistat.xiaomi.com
+DOMAIN-KEYWORD,diagnosis.ad.xiaomi.com
+DOMAIN-KEYWORD,log.ad.xiaomi.com
+DOMAIN-KEYWORD,m.track.ad.xiaomi.com
+DOMAIN-KEYWORD,sdkconfig.ad.xiaomi.com
+# avl
+DOMAIN-KEYWORD,miui-fxcse.avlyun.com
+DOMAIN-KEYWORD,sdkconf.avlyun.com
+DOMAIN-KEYWORD,miav-cse.avlyun.com
+DOMAIN-KEYWORD,update.avlyun.sec.miui.com
+DOMAIN-KEYWORD,ixav-cse.avlyun.com
+DOMAIN-KEYWORD,logupdate.avlyun.sec.miui.com
+# 流量更新、病毒白名单
+DOMAIN-KEYWORD,api.sec.miui.com
+#反诈
+DOMAIN-KEYWORD,flash.sec.miui.com
+#此处主要屏蔽小米云扫描组件
+DOMAIN-KEYWORD,log.avlyun.sec.intl.miui.com
+DOMAIN-KEYWORD,tmfsdk.m.qq.com
+DOMAIN-KEYWORD,a0.app.xiaomi.com
+#屏蔽后无法矫正流量，但是也用来下载白名单
+DOMAIN-KEYWORD,adv.sec.miui.com
+DOMAIN-KEYWORD,xlmc.sec.miui.com
+#禁用后将无法云扫描病毒
+DOMAIN-KEYWORD,etl-xlmc-ssl.sandai.net
+DOMAIN-KEYWORD,cn.app.chat.xiaomi.net
