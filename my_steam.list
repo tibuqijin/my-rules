@@ -1,6 +1,3 @@
-#CM服务器
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamserver.net
 #steam云同步
 DOMAIN-KEYWORD,steamcloud
 #steam好友列表
