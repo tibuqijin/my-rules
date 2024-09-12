@@ -1,1 +1,11 @@
-
+#CM服务器
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+#steam云同步
+DOMAIN-KEYWORD,steamcloud
+#steam好友列表
+DOMAIN,steam-chat.com
+#图片视频
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,steamstatic.com
