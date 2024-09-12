@@ -1,1 +1,4 @@
 DOMAIN-KEYWORD,steamcontent.com
+#CM服务器
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamserver.net
