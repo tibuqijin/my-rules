@@ -28,3 +28,4 @@ DOMAIN-KEYWORD,xlmc.sec.miui.com
 #禁用后将无法云扫描病毒
 DOMAIN-KEYWORD,etl-xlmc-ssl.sandai.net
 DOMAIN-KEYWORD,cn.app.chat.xiaomi.net
+DOMAIN-KEYWORD,dns.weixin
