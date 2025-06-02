@@ -1,8 +1,8 @@
-DOMAIN,csgo.wmsj.cn
-DOMAIN,dota2.wmsj.cn
-DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,steamstatic.com.8686c.com
+DOMAIN-SUFFIX,csgo
+DOMAIN-SUFFIX,dota2
+DOMAIN-SUFFIX,steampipe
+DOMAIN,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
 DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,cm.steampowered.com
